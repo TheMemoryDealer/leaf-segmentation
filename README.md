@@ -1,7 +1,10 @@
 # CV-leaf-segm
 
-A method for recognising plant leaves in rosette plants. Inspired by [[1]](#1). Achieves HSV colour segmentation, k-means clustering segmentation, watershed instance segmentation and indexing. 
+A method for recognising plant leaves in rosette plants. Inspired by [[1]](#1). Given 16 plant images of avg size (w,h) 122x132*px* achieves HSV colour segmentation, k-means clustering segmentation, watershed instance segmentation and indexing. 
 
+<p align="middle">
+  <img src="/assets/Figure_11.png" width="500" />
+</p>
 
 ## References
 <a id="1">[1]</a> 
