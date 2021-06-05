@@ -1,0 +1,8 @@
+matplotlib==3.3.4
+pandas==1.2.4
+opencv_python==4.4.0.46
+numpy==1.18.5
+termcolor==1.1.0
+scipy==1.4.1
+scikit_image==0.16.2
+skimage==0.0
